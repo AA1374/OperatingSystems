@@ -1,8 +1,5 @@
 /*
-    COMP3511 Fall 2022 
     Simplified Multi-Level Feedback Queue (MLFQ)
-
-
 */
 
 // Note: Necessary header files are included
