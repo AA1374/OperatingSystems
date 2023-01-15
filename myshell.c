@@ -1,7 +1,5 @@
 /*
-    COMP3511 Fall 2022 
     Simplified Linux Shell (MyShell) 
-
 */
 
 // Note: Necessary header files are included
