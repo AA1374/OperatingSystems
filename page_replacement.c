@@ -1,7 +1,5 @@
 /*
-    COMP3511 Fall 2022 
     Page-Replacement Algorithms
-
 */
 
 // Note: Necessary header files are included
